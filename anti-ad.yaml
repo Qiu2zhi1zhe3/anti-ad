@@ -9705,7 +9705,6 @@ payload:
   - '+.jadspro.live'
   - '+.static.jadspro.live'
   - '+.www.jadspro.live'
-  - '+.bifrost-api.hotstar.com'
   - '+.events-analytics.hotstar.com'
   - '+.logs.hotstar.com'
   - '+.settings-analytics.hotstar.com'
