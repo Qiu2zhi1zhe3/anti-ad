@@ -10230,6 +10230,7 @@ payload:
   - '+.dc.banggood.com'
   - '+.web-device-id.banggood.com'
   - '+.mtgglobals.com'
+  - '+.adx-tk.mtgglobals.com'
   - '+.cdn-adn-https.mtgglobals.com'
   - '+.sg01.mtgglobals.com'
   - '+.adtimaserver.vn'
